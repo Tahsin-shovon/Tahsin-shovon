@@ -4,7 +4,7 @@
 - 👀 I’m interested in ... Engineering
 - 🌱 I’m currently learning ... CSE 
 - 💞️ I’m looking to collaborate on ... Helping people
-- 📫 How to reach me ... ( Facebook/Tahsin Shovon)
+- 📫 How to reach me ... ( Gmail:-shovonkitkat1997@gmail.com)
 
 <!---
 Tahsin-shovon/Tahsin-shovon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
